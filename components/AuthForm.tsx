@@ -54,8 +54,7 @@ const isSignIn= type === "sign-in";
                     <Image src="/logo.svg" alt="Logo" height={32} width={38}  />
                     <h2 className="text-primary-100">Talk2Hire</h2>
                 </div>
-                <h3 className="text-primary-100 flex-center
-                ">Practice job interview with AI</h3>
+                <h3 className="text-center">Practice job interview with AI</h3>
 
 
             <Form {...form}>
