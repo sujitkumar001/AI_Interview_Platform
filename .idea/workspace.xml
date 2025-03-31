@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248d215a-34f3-41a2-a281-9bf06d8552f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/api/vapi/generate/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vapi.sdk.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="248d215a-34f3-41a2-a281-9bf06d8552f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +68,7 @@
       <updated>1743367533036</updated>
       <workItem from="1743367537028" duration="3249000" />
       <workItem from="1743370904597" duration="23836000" />
-      <workItem from="1743418889300" duration="9106000" />
+      <workItem from="1743418889300" duration="9467000" />
     </task>
     <servers />
   </component>
