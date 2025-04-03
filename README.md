@@ -3,6 +3,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Introduction
 Built with Next.js for the user interface and backend logic, Firebase for authentication and data storage, styled with TailwindCSS and using Vapi's voice agents, Talk2Hire is a website project designed to help you learn integrating AI models with your apps. The platform offers a sleek and modern experience for job interview preparation.
 
+## Technologies Used
+
+Next.js
+Firebase
+Tailwind CSS
+Vapi AI
+shadcn/ui
+Google Gemeni
+
 ## Getting Started
 
 First, run the development server:
